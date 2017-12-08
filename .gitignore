@@ -1,6 +1,7 @@
 AwsCredentials.properties
 .idea
-target/
+target/*
 *.iml
 .gradle
 build/
+bin/*
